@@ -1,0 +1,5 @@
+.btn-outline-primary:hover {
+    background-color: red;
+    color: white; /* Optionally, change text color on hover */
+  }
+  
